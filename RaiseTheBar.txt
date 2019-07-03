@@ -1,0 +1,5 @@
+1. https://www.jdoodle.com/online-java-compiler
+2.https://www.codechef.com/ide
+3.https://www.guru99.com/ -> it has reference material for all technologies and also it is online coding tool, also 
+online mcq tests are available on this site.
+https://www.studytonight.com/tests/?subject=java-> this site has MCQ questions and practice tests available for all topics of Java
